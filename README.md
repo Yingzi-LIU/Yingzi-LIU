@@ -33,12 +33,13 @@
 
 ---
 
-## Featured Projects
+## 参加过的黑客松项目
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 📚 [DataHub Document Automation](https://github.com/Ziqi418/datahub-doc-automation) | Review-first AI automation that turns business documents into trusted, publish-ready DataHub metadata | Python · FastAPI · React · DataHub · Docker · LLM |
-| 🐾 [PetCalm](https://github.com/Yingzi-LIU/petcalm) | AI pet emotion detection & calming assistant | Vue.js · Claude AI · Web Audio API |
+| Project | Description | Tech | Demo |
+|---------|-------------|------|------|
+| 📚 [DataHub Document Automation](https://github.com/Ziqi418/datahub-doc-automation) | Review-first AI automation that turns business documents into trusted, publish-ready DataHub metadata | Python · FastAPI · React · DataHub · Docker · LLM | [Watch demo](https://www.loom.com/share/f6b3e42b91424f72bf9772b49abbce35) |
+| 🧠 [Thread Mate](https://github.com/Yingzi-LIU/thread-mate) | Multimodal AI agent that models cognitive intent across web pages, YouTube, and documents, then visualizes attention drift in a live knowledge graph | Next.js · FastAPI · WebSocket · React Flow · GLM-4 | [Watch demo](https://www.loom.com/share/5f0561c282a04539b05792f992534e3e) |
+| 🐾 [PetCalm](https://github.com/Yingzi-LIU/petcalm) | AI pet emotion detection & calming assistant | Vue.js · Claude AI · Web Audio API | — |
 
 ---
 
