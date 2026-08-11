@@ -33,7 +33,7 @@
 
 ---
 
-## 参加过的黑客松项目
+## Hackathon Projects
 
 | Project | Description | Tech | Demo |
 |---------|-------------|------|------|
