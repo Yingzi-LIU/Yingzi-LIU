@@ -16,7 +16,7 @@
 - 🤖 Passionate about **LLMs, AI applications**, and building with cutting-edge models
 - 🎵 **Vibe Coding** enthusiast — turning ideas into products with the power of AI
 - 🌱 Currently exploring **AI agents** and **multimodal models**
-- 🐾 Latest project: **[PetCalm](https://github.com/Yingzi-LIU/petcalm)** — AI-powered pet emotion detection & calming assistant
+- 🚀 Latest project: **[DataHub Document Automation](https://github.com/Ziqi418/datahub-doc-automation)** — review-first AI automation that turns business documents into trusted, publish-ready DataHub metadata
 
 ---
 
@@ -37,6 +37,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| 📚 [DataHub Document Automation](https://github.com/Ziqi418/datahub-doc-automation) | Review-first AI automation that turns business documents into trusted, publish-ready DataHub metadata | Python · FastAPI · React · DataHub · Docker · LLM |
 | 🐾 [PetCalm](https://github.com/Yingzi-LIU/petcalm) | AI pet emotion detection & calming assistant | Vue.js · Claude AI · Web Audio API |
 
 ---
